@@ -1,0 +1,4 @@
+﻿  catByAt.c
+D:\Codeing\local repositories\Operating Systems Labs\Lab2\OperatingSystemsLab2Q3\catByAt.c(10,6): warning C4013: 'exit' undefined; assuming extern returning int
+D:\Codeing\local repositories\Operating Systems Labs\Lab2\OperatingSystemsLab2Q3\catByAt.c(26,14): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Codeing\local repositories\Operating Systems Labs\Lab2\OperatingSystemsLab2Q3\catByAt.c(31,9): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
